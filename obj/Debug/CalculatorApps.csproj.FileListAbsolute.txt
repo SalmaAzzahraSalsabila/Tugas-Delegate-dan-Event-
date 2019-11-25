@@ -1,0 +1,11 @@
+D:\TUGAS KULIAH\PEMROGRAMAN LANJUT\CalculatorApps\CalculatorApps\bin\Debug\CalculatorApps.exe.config
+D:\TUGAS KULIAH\PEMROGRAMAN LANJUT\CalculatorApps\CalculatorApps\bin\Debug\CalculatorApps.exe
+D:\TUGAS KULIAH\PEMROGRAMAN LANJUT\CalculatorApps\CalculatorApps\bin\Debug\CalculatorApps.pdb
+D:\TUGAS KULIAH\PEMROGRAMAN LANJUT\CalculatorApps\CalculatorApps\obj\Debug\CalculatorApps.csprojAssemblyReference.cache
+D:\TUGAS KULIAH\PEMROGRAMAN LANJUT\CalculatorApps\CalculatorApps\obj\Debug\CalculatorApps.EntryCalculator.resources
+D:\TUGAS KULIAH\PEMROGRAMAN LANJUT\CalculatorApps\CalculatorApps\obj\Debug\CalculatorApps.Form1.resources
+D:\TUGAS KULIAH\PEMROGRAMAN LANJUT\CalculatorApps\CalculatorApps\obj\Debug\CalculatorApps.Properties.Resources.resources
+D:\TUGAS KULIAH\PEMROGRAMAN LANJUT\CalculatorApps\CalculatorApps\obj\Debug\CalculatorApps.csproj.GenerateResource.cache
+D:\TUGAS KULIAH\PEMROGRAMAN LANJUT\CalculatorApps\CalculatorApps\obj\Debug\CalculatorApps.csproj.CoreCompileInputs.cache
+D:\TUGAS KULIAH\PEMROGRAMAN LANJUT\CalculatorApps\CalculatorApps\obj\Debug\CalculatorApps.exe
+D:\TUGAS KULIAH\PEMROGRAMAN LANJUT\CalculatorApps\CalculatorApps\obj\Debug\CalculatorApps.pdb
